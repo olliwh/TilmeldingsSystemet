@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.32407.337
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TilmildingsSystemet", "TilmildingsSystemet\TilmildingsSystemet.csproj", "{F1CD5153-2DEA-47EF-98BA-2868A38F7E86}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LivPeriodeSystem", "..\LivPeriodeSystem\LivPeriodeSystem\LivPeriodeSystem.csproj", "{7DCE76A2-9B29-4CC0-A62F-519EF18BE422}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F1CD5153-2DEA-47EF-98BA-2868A38F7E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1CD5153-2DEA-47EF-98BA-2868A38F7E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1CD5153-2DEA-47EF-98BA-2868A38F7E86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DCE76A2-9B29-4CC0-A62F-519EF18BE422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DCE76A2-9B29-4CC0-A62F-519EF18BE422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DCE76A2-9B29-4CC0-A62F-519EF18BE422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DCE76A2-9B29-4CC0-A62F-519EF18BE422}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
